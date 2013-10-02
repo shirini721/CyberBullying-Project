@@ -1,0 +1,6 @@
+curl https://gdata.youtube.com/feeds/api/videos?q=gay > gay.out
+curl https://gdata.youtube.com/feeds/api/videos?q=homosexual > homosexual.out
+curl https://gdata.youtube.com/feeds/api/videos?q=abortion > abortion.out
+curl https://gdata.youtube.com/feeds/api/videos?q=feminism > feminism.out
+curl https://gdata.youtube.com/feeds/api/videos?q=islam > islam.out
+curl https://gdata.youtube.com/feeds/api/videos?q=christianity > christianity.out
