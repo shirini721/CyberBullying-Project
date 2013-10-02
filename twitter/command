@@ -1,0 +1,1 @@
+/usr/local/share/npm/bin/twitter-curl --accounts /Users/Parnia/oauth2.csv --query "track=INSTERT_QUERY"
